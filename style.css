@@ -1,0 +1,50 @@
+body, html{
+    background-image: url("back-g.png");
+}
+
+.nav{
+    font-size: 1.2em;
+    font-family: 'Product Sans';
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    
+
+
+}
+
+.intro, .student, .Lead, .human{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.student{
+    text-align: justify;
+}
+/* row{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    border: 1px solid snow;
+    background-color: wheat;
+} */
+
+.nav-link{
+    width: 250px;
+    text-transform: uppercase;
+}
+
+.container{
+    height: auto;
+}
+.pied{
+    color: snow;
+    padding-top: 10px;
+    text-align: justify;
+    padding-left: 10px;
+    opacity: 85%;
+}
+ul{
+    list-style: none;
+}
+
+.CopyR{
+    text-align: center;
+}
